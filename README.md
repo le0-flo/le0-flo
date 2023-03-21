@@ -1,16 +1,17 @@
-### Hi there 👋
+```✨ std::cout << "Le0 bio" << std::endl ```
 
-<!--
-**le0-flo/le0-flo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi, I'm leo, a computer science student from Italy 📚
 
-Here are some ideas to get you started:
+I'm 18 yo and I've been coding for 5 years in various programming languages.
+Now I'm currently interested in digital forensics analisis, and trying to
+get a better understanding of how i can retrieve information from a system,
+to detect weird and malicious behaviors.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### I have experience with 🌌:
+- C++/C (Windows API, WinSock and competitive coding)
+- Java (plain java and SpringBoot framework)
+- Python (Pygame, Django, Flask, embedded programming and networking)
+- Dart (Flutter framework)
+- "Web development dome" (HTML/JS/CSS and nodejs)
+
